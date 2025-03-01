@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=patilmahesh12" alt="patilmahesh12" /></a> </p>
 
-- 🔭 I’m currently working on [kutumbak](https://github.com/patilmahesh12/Kutumbak)
+- 🔭 I’m currently working on [Digital Diary](https://github.com/patilmahesh12/Kutumbak)
 
 - 🌱 I’m currently learning **Python and Flask**
 
