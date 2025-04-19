@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/patilmahesh12](https://github.com/patilmahesh12)
 
-- 💬 Ask me about **react js**
+- 💬 Ask me about **react js** , **Next.js**
 
 - 📫 How to reach me **maheshcsp8767@gmail.com**
 
