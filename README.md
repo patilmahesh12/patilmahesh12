@@ -1,9 +1,8 @@
 <h1 align="center">Hey! 👋, I'm Mahesh Patil</h1>
 <h3 align="center">Full Stack Developer | DSA Enthusiast | Full Stack Developer Intern</h3>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=patilmahesh12&show_icons=true&theme=tokyonight" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=patilmahesh12&label=Profile%20views&color=0e75b6&style=flat" alt="patilmahesh12" />
+
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
