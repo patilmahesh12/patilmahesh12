@@ -1,5 +1,5 @@
 <h1 align="center">Hey! 👋, I'm Mahesh Patil</h1>
-<h3 align="center">Full Stack Developer | DSA Enthusiast | Full Stack Developer Intern</h3>
+<h3 align="center">Full Stack Developer | DSA | Full Stack Developer Intern</h3>
 
 <img src="https://komarev.com/ghpvc/?username=patilmahesh12&label=Profile%20views&color=0e75b6&style=flat" alt="patilmahesh12" />
 
