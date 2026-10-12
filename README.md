@@ -13,11 +13,11 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working as a **Full Stack Developer Intern at R3 SYSTEMS INDIA PRIVATE LIMITED**
+- 🔭 Currently working as a **Full Stack Developer Intern at VajraSec Technologies**
 - 💻 Working on real-world full stack development projects
 - 🌱 Currently learning **Python, Flask, System Design and Computer Networks**
 - 👯 Open to collaborate on **AI tools & full stack projects**
-- 💬 Ask me about **React.js, Next.js, Node.js**
+- 💬 Ask me about **React.js, Next.js, Node.js, AWS**
 - 📫 Reach me at **maheshcsp8767@gmail.com**
 - ⚡ Fun fact: *I love finding bugs… but they sure keep me on my toes!*
 
